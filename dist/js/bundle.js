@@ -94,7 +94,7 @@
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\n// SAMPLE DATA FOR CONFIGURATION TESTING\nvar DIRECTION_COORDINATES = exports.DIRECTION_COORDINATES = [[1, 0, -1], [1, -1, 0], [0, -1, 1], [-1, 0, 1], [-1, 1, 0], [0, 1, -1]];\n\n//# sourceURL=webpack:///./src/constants.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.sample = sample;\n\n/**\n * This module includes sample data for configuration purposes.\n * @module Constants\n * @namespace\n */\n\n// SAMPLE DATA FOR CONFIGURATION TESTING\nvar DIRECTION_COORDINATES = exports.DIRECTION_COORDINATES = [[1, 0, -1], [1, -1, 0], [0, -1, 1], [-1, 0, 1], [-1, 1, 0], [0, 1, -1]];\n\n/**\n * Sample function for documentation testing.\n * @memberof Constants\n * @return {boolean} - Always true here\n */\nfunction sample() {\n  return true;\n}\n\n//# sourceURL=webpack:///./src/constants.js?");
 
 /***/ }),
 
