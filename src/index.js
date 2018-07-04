@@ -1,5 +1,3 @@
-import { DIRECTION_COORDINATES } from './constants'
+import { sample } from './sample'
 
-console.log(DIRECTION_COORDINATES)
-
-console.log('working...')
+document.write(sample())
