@@ -106,7 +106,7 @@ eval("\n\nvar _sample = __webpack_require__(/*! ./sample */ \"./src/sample.js\")
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.sample = sample;\n/**\n * Sample function for testing.\n * @memberof Sample\n * @return {string} - confirmation message\n */\nfunction sample() {\n  return \"It works!\";\n}\n\n//# sourceURL=webpack:///./src/sample.js?");
+eval("\n\nObject.defineProperty(exports, \"__esModule\", {\n  value: true\n});\nexports.sample = sample;\n/**\n * Sample function for testing.\n * @memberof Sample\n * @return {string} - confirmation message\n */\nfunction sample() {\n  return \"It works! It really works!\";\n}\n\n//# sourceURL=webpack:///./src/sample.js?");
 
 /***/ })
 
