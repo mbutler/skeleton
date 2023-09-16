@@ -1,10 +1,10 @@
 # skeleton
-A barebones starter project for modern javascript development. node/npm or bun
+A barebones starter project for modern javascript development.
 
 babel + webpack + mocha + chai + documentationjs
 
-`bun start` - compile source and run dev server
+`npm start` - compile source and run dev server
 
-`bun test` - run unit tests
+`npm test` - run unit tests
 
-`bun document` - generate docs for all comments in valid JSDoc format
+`npm document` - generate docs for all comments in valid JSDoc format
